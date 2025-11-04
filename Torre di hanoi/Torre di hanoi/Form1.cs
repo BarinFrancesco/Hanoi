@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -61,6 +62,7 @@ namespace Torre_di_hanoi
             //gli assegnam oun nome e li mettiamo in una lista
             DiscoNuovo.Name = $"pnl_{i+1}";
             Primalista.Add(DiscoNuovo);
+            Thread.Sleep(500);
         }
 
         private int CalculateX(Panel MovedPanel, Panel BasePanel)
