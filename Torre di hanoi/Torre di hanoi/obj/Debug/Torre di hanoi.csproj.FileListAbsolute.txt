@@ -1,0 +1,11 @@
+C:\Users\12999355\Desktop\Torre di hanoi\Torre di hanoi\bin\Debug\Torre di hanoi.exe.config
+C:\Users\12999355\Desktop\Torre di hanoi\Torre di hanoi\bin\Debug\Torre di hanoi.exe
+C:\Users\12999355\Desktop\Torre di hanoi\Torre di hanoi\bin\Debug\Torre di hanoi.pdb
+C:\Users\12999355\Desktop\Torre di hanoi\Torre di hanoi\obj\Debug\Torre di hanoi.csproj.AssemblyReference.cache
+C:\Users\12999355\Desktop\Torre di hanoi\Torre di hanoi\obj\Debug\Torre di hanoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\12999355\Desktop\Torre di hanoi\Torre di hanoi\obj\Debug\Torre_di_hanoi.Form1.resources
+C:\Users\12999355\Desktop\Torre di hanoi\Torre di hanoi\obj\Debug\Torre_di_hanoi.Properties.Resources.resources
+C:\Users\12999355\Desktop\Torre di hanoi\Torre di hanoi\obj\Debug\Torre di hanoi.csproj.GenerateResource.cache
+C:\Users\12999355\Desktop\Torre di hanoi\Torre di hanoi\obj\Debug\Torre di hanoi.csproj.CoreCompileInputs.cache
+C:\Users\12999355\Desktop\Torre di hanoi\Torre di hanoi\obj\Debug\Torre di hanoi.exe
+C:\Users\12999355\Desktop\Torre di hanoi\Torre di hanoi\obj\Debug\Torre di hanoi.pdb
